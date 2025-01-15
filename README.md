@@ -1,7 +1,4 @@
-
-- I'm Vedanth, a computer science undergrad currently in my second year of college.
-- I’m interested in Machine Learning, Deep Learning, Data Science and  Web Developement. 
-   
+[![Vedanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedanthnyk25)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
