@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/AAL1X">Vedanth</a> 
+  Hi there, I'm <a href="https://github.com/vedanthnyk25">Vedanth</a> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
