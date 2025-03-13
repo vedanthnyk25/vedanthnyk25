@@ -72,6 +72,7 @@
 <tr>
 <td>
     <img src="https://github-readme-stats.vercel.app/api?username=vedanthnyk25&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vedanthnyk25&theme=nightowl&hide_border=false&langs_count=5"/>
 </td>
 <td>
 </td>
