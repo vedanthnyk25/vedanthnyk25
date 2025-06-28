@@ -1,20 +1,32 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/vedanthnyk25">Vedanth</a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hey 👋, I'm <a href="https://github.com/vedanthnyk25">Vedanth</a>!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
+
+<p align="center">
+  <em>Curious Coder • Full-Stack Developer • AI Explorer</em>
+</p>
+
+<p align="center">
+  <a href="mailto:vedanthnayak25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vedanthnayak25@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedanthnayak/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vedanth Nayak-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
-👋 Hey there! I'm a **Computer Science** student in my **4th semester**, passionate about **building and exploring new technologies**. I'm diving deep into **full-stack development**, mastering both **back-end and front-end**, while also exploring **Deep Learning and Generative AI**.
 
-💡 I love solving problems, experimenting with new ideas, and bringing concepts to life through code. Whether it's **crafting efficient APIs, designing sleek user interfaces, or training AI models**, I'm always up for the challenge!
+🎓 I'm a **Computer Science undergrad** currently in my **4th semester**, passionate about **building and exploring new technologies**.
 
-📌 Currently focused on strengthening my development skills, working on **exciting projects**, and staying curious about **emerging technologies**.
+💡 Whether it's crafting APIs, designing sleek interfaces, or experimenting with AI — I love solving problems and turning concepts into reality.
 
-### 📚 Currently Learning:
-- *Next.js*
-- *Transformers*
+🧠 Currently deep-diving into **Full-Stack Development**, **Agentic Workflows**, and **Generative AI** — always hungry to learn more.
+
+---
 
 🎮 **Hobbies:** Gaming, Music, Socializing  
 📫 **Reach me at:** <a href="mailto:vedanthnayak25@gmail.com">vedanthnayak25@gmail.com</a>
@@ -41,6 +53,7 @@
 ### **Backend & Frameworks**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
 
 ### **ML/DL Framework**
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,9 +62,11 @@
 ### **Deployment & Cloud**
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **Database Management**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -66,31 +81,46 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedanthnyk25&theme=algolia&no-bg=true&no-frame=true&row=1&margin-w=20" />
+</p>
+
+---
+
+## 📈 Activity Stats
+
 <div align="center">
-<table>
-<tr>
-<td>
-    <img src="https://github-readme-stats.vercel.app/api?username=vedanthnyk25&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vedanthnyk25&theme=nightowl&hide_border=false&langs_count=5"/>
-</td>
-<td>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedanthnyk25&theme=tokyonight&show_icons=true&count_private=true" height="160" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthnyk25&layout=compact&theme=tokyonight&langs_count=6" height="140" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedanthnyk25&theme=tokyonight" height="140" />
 </div>
 
 ---
 
-## 📢 Let's Connect!
-<div align="center">
-  <a href="mailto:vedanthnayak25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/vedanthnayak/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-</div>
+## 📊 Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanthnyk25&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+## 💌 Let's Connect!
+
+<p align="center">
+  <a href="mailto:vedanthnayak25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vedanthnayak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/vedanthnyk25"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🎯 Visitor Counter
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
-</div>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vedanthnyk25/count.svg" />
+</p>
