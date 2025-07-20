@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Computer Science undergrad** currently in my **5th semester** at **BIT Mesra**, passionate about **building and exploring new technologies**.
+🎓 I'm a **Computer Science undergrad** currently in my **5th semester**, passionate about **building and exploring new technologies**.
 
 💡 Whether it's crafting APIs, designing sleek interfaces, or experimenting with AI — I love solving problems and turning concepts into reality.
 
