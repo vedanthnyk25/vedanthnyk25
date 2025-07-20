@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Curious Coder • Full-Stack Developer • AI Explorer</em>
+  <em>Curious Coder • Full-Stack Developer • Agentic AI</em>
 </p>
 
 <p align="center">
@@ -20,17 +20,14 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Computer Science undergrad** currently in my **4th semester**, passionate about **building and exploring new technologies**.
+🎓 I'm a **Computer Science undergrad** currently in my **5th semester** at **BIT Mesra**, passionate about **building and exploring new technologies**.
 
 💡 Whether it's crafting APIs, designing sleek interfaces, or experimenting with AI — I love solving problems and turning concepts into reality.
 
 🧠 Currently deep-diving into **Full-Stack Development**, **Agentic Workflows**, and **Generative AI** — always hungry to learn more.
 
----
-
-🎮 **Hobbies:** Gaming, Music, Socializing  
+---  
 📫 **Reach me at:** <a href="mailto:vedanthnayak25@gmail.com">vedanthnayak25@gmail.com</a>
-
 ---
 
 ## 🌟 Skills
