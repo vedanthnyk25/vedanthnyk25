@@ -83,15 +83,35 @@ Currently diving deep into **infrastructure fundamentals** and **system design p
 
 ---
 
-## Pinned Projects
+## Featured Projects
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/vedanthnyk25/sentinel">Sentinel</a></h3>
+      <p><strong>High Concurrency Flash Sale Reservation Engine</strong></p>
+      <p>Go, Redis, RabbitMQ, PostgreSQL, sqlc</p>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/vedanthnyk25/eventforge">EventForge</a></h3>
+      <p><strong>A smart cart companion for Walmart</strong></p>
+      <p>Go, React, Python, Google Agents SDK, PostgreSQL</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/vedanthnyk25/evoque">Evoque</a></h3>
+      <p><strong>Distributed Ride Management System</strong></p>
+      <p>Go, MongoDB, Docker, Kubernetes, RabbitMQ</p>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/vedanthnyk25/live-chef-cart">Live Chef Cart</a></h3>
+      <p><strong></strong></p>
+      <p>WebSocket-powered collaborative platform with live order tracking & instant updates</p>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=sentinel&theme=github_dark)](https://github.com/vedanthnyk25/sentinel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=evoque&theme=github_dark)](https://github.com/vedanthnyk25/evoque)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=eventforge&theme=github_dark)](https://github.com/vedanthnyk25/eventforge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=live-chef-cart&theme=github_dark)](https://github.com/vedanthnyk25/live-chef-cart)
 
 </div>
 
