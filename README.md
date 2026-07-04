@@ -106,7 +106,7 @@ Currently diving deep into **infrastructure fundamentals** and **system design p
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/vedanthnyk25/live-cart-chef">Live Cart Chef</a></h3>
-      <p><strong></strong></p>
+      <p><strong>A smart AI driven companion for Walmart</strong></p>
       <p>Go, React, Python, Google Agents SDK, PostgreSQL</p>
     </td>
   </tr>
