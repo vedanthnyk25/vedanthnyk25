@@ -1,8 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVf/giphy.gif" width="35"> Vedanth Nayak
+
 
 <div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVf/giphy.gif" width="35"> 
 
-### 🚀 Backend Engineer | Distributed Systems Architect | Competitive Programmer
+### Vedanth Nayak
+### Backend Engineer | Distributed Systems Architect | Competitive Programmer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Designing+Scalable+Systems;Building+Reliable+Infrastructure;Solving+Complex+Problems)](https://git.io/typing-svg)
 
@@ -14,23 +16,21 @@
 
 ---
 
-## 💡 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthnyk25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="320" />
+## About Me
 
 Passionate backend developer obsessed with **reliability**, **scalability**, and **correctness**.
 
 My specialties:
-- 🏗️ Distributed systems & microservice architecture
-- 🔌 High-performance APIs & system design
-- ⚡ Concurrency patterns, messaging, and caching
-- 🧩 Algorithmic problem-solving with strong guarantees
+- Distributed systems 
+- High-performance APIs & system design
+- Concurrency patterns, messaging, and caching
+- Algorithmic problem-solving 
 
 Currently diving deep into **infrastructure fundamentals** and **system design principles** that power production systems at scale.
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Currently diving deep into **infrastructure fundamentals** and **system design p
 
 ---
 
-## 📊 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
@@ -83,16 +83,15 @@ Currently diving deep into **infrastructure fundamentals** and **system design p
 
 ---
 
-## 🎯 Latest Achievements
+## Pinned Projects
 
 <div align="center">
 
-| 📈 Metric | 💪 Value |
-|-----------|---------|
-| Public Repos | ![GitHub Repo Count](https://img.shields.io/badge/GitHub-Repos-blue?style=for-the-badge) |
-| Current Focus | `Distributed Systems & Infrastructure` |
-| Learning | `System Design at Scale` |
-| Fun Fact | `Loves optimizing algorithms & building efficient APIs` |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=sentinel&theme=github_dark)](https://github.com/vedanthnyk25/sentinel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=evoque&theme=github_dark)](https://github.com/vedanthnyk25/evoque)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=eventforge&theme=github_dark)](https://github.com/vedanthnyk25/eventforge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanthnyk25&repo=live-chef-cart&theme=github_dark)](https://github.com/vedanthnyk25/live-chef-cart)
 
 </div>
 
@@ -119,30 +118,8 @@ Currently diving deep into **infrastructure fundamentals** and **system design p
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanthnyk25&theme=dark&hide_border=true)](https://github.com/vedanthnyk25)
-
-</div>
-
----
-
-## 📋 Resume & Portfolio
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/View%20My-Resume-FF0000?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Qx15rIGvmJUidMcQgC4pCgqMkyFk39-R/view?usp=sharing)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Open to collaborations on distributed systems, infrastructure projects, and competitive programming!
-
-![Profile Views](https://komarev.com/ghpvc/?username=vedanthnyk25&color=blueviolet&style=flat-square)
 
 </div>
