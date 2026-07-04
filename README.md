@@ -94,20 +94,20 @@ Currently diving deep into **infrastructure fundamentals** and **system design p
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/vedanthnyk25/eventforge">EventForge</a></h3>
-      <p><strong>A smart cart companion for Walmart</strong></p>
-      <p>Go, React, Python, Google Agents SDK, PostgreSQL</p>
+      <p><strong>Webhook Ingestion and Delivery System</strong></p>
+      <p>Next.js, Upstash-Qstash. Prisma, NeonDB</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3><a href="https://github.com/vedanthnyk25/evoque">Evoque</a></h3>
       <p><strong>Distributed Ride Management System</strong></p>
-      <p>Go, MongoDB, Docker, Kubernetes, RabbitMQ</p>
+      <p>Go, MongoDB, Docker, Kubernetes, RabbitMQ, Websockets</p>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/vedanthnyk25/live-chef-cart">Live Chef Cart</a></h3>
+      <h3><a href="https://github.com/vedanthnyk25/live-cart-chef">Live Cart Chef</a></h3>
       <p><strong></strong></p>
-      <p>WebSocket-powered collaborative platform with live order tracking & instant updates</p>
+      <p>Go, React, Python, Google Agents SDK, PostgreSQL</p>
     </td>
   </tr>
 </table>
